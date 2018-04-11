@@ -1,0 +1,1 @@
+This **program** will be admin interface for school project from desktop
